@@ -1,0 +1,16 @@
+project-root/
+│
+├── README.md
+├── LICENSE
+├── .gitignore
+├── requirements.txt
+├── CONTRIBUTING.md
+├── llm_config.py
+├── main_script.py
+├── notebook.ipynb
+├── data/
+│   └── dataset.csv
+├── examples/
+│   └── example_script.py
+└── docs/
+    └── detailed_documentation.md
