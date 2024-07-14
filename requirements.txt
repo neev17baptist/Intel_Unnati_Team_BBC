@@ -1,0 +1,9 @@
+transformers
+datasets
+openvino
+matplotlib
+ipywidgets
+requests
+shutil
+optimum
+torch
